@@ -1,0 +1,2 @@
+# mucitpark
+python egıtımı
